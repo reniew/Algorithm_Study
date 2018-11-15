@@ -1,7 +1,7 @@
 # Algorithm Study
 
 
-###Rules
+### Rules
 
 * 1회에 각자 3문제
 * 한 주당 3번 총 9문제
